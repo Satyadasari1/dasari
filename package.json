@@ -2,7 +2,7 @@
   "private": true,
   "name": "dasari",
   "version": "0.1.0",
-  "homepage": "https://github.com/Satyadasari1/dasari",
+ "homepage": "https://dasari.github.io/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
