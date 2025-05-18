@@ -2,7 +2,7 @@
   "private": true,
   "name": "dasari",
   "version": "0.1.0",
- "homepage": "https://dasari.github.io/",
+  "homepage": "https://Satyadasari1.github.io/dasari",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
@@ -17,8 +17,6 @@
     "baseui": "^9.65.3",
     "bootstrap": "^4.4.1",
     "chart.js": "^2.9.3",
-    "fs": "0.0.1-security",
-    "gh-pages": "^2.1.1",
     "graphql": "^14.3.1",
     "gsap": "^3.12.5",
     "lottie-react": "^2.4.0",
@@ -44,6 +42,7 @@
     "@iconify/icons-logos": "^1.0.9",
     "@iconify/react": "^1.1.1",
     "dotenv": "^6.2.0",
+    "gh-pages": "^6.3.0",
     "husky": "^4.2.5",
     "lint-staged": "^10.2.11",
     "prettier": "2.0.5"
